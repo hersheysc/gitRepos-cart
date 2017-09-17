@@ -170,6 +170,8 @@
     <None Include="Service References\ProductServiceProxy\Service1.xsd">
       <SubType>Designer</SubType>
     </None>
+    <Content Include="Views\Shared\ProductPartialViews\_ProductHeader.cshtml" />
+    <Content Include="Views\Shared\ProductPartialViews\_ProductDetails.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
