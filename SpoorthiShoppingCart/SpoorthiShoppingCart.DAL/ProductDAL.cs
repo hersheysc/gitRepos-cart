@@ -21,7 +21,7 @@ namespace SpoorthiShoppingCart.DAL
             Product product;
             List<Product> products = new List<Product>();
             connetionString = @"Data Source=TRAINING\PROGET;Initial Catalog=Northwind;Integrated Security=True";
-            sql = "Select ProductID,ProductName,UnitPrice,Discontinued from products";
+            sql = "Select ProductID,ProductName,UnitPrice,Discontinued,UnitsInstock from products";
             connection = new SqlConnection(connetionString);
             try
             {
@@ -35,6 +35,7 @@ namespace SpoorthiShoppingCart.DAL
                     product.ProductName = Convert.ToString(dataReader["ProductName"]);
                     product.UnitPrice = Convert.ToDouble(dataReader["UnitPrice"]);
                     product.Discontinued = Convert.ToInt16(dataReader["Discontinued"]);
+                    product.UnitsInstock = Convert.ToInt16(dataReader["UnitsInstock"]);
                     products.Add(product);
                 }
                 dataReader.Close();

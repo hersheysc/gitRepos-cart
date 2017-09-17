@@ -26,6 +26,7 @@ namespace ProductWCFService
                 productDataContract.ProductName = product.ProductName;
                 productDataContract.UnitPrice = product.UnitPrice;
                 productDataContract.Discontinued = product.Discontinued;
+                productDataContract.UnitsInstock = product.UnitsInstock;
                 svcProducts.Add(productDataContract);
             }
 

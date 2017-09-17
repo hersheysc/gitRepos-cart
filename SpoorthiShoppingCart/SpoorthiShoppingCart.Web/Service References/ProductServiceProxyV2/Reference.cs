@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
+namespace SpoorthiShoppingCart.Web.ProductServiceProxyV2 {
     using System.Runtime.Serialization;
     using System;
     
@@ -32,7 +32,13 @@ namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
         private string ProductNameField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int QuantityPerUnitField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
         private double UnitPriceField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int UnitsInstockField;
         
         [global::System.ComponentModel.BrowsableAttribute(false)]
         public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
@@ -84,6 +90,19 @@ namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
+        public int QuantityPerUnit {
+            get {
+                return this.QuantityPerUnitField;
+            }
+            set {
+                if ((this.QuantityPerUnitField.Equals(value) != true)) {
+                    this.QuantityPerUnitField = value;
+                    this.RaisePropertyChanged("QuantityPerUnit");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
         public double UnitPrice {
             get {
                 return this.UnitPriceField;
@@ -92,6 +111,19 @@ namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
                 if ((this.UnitPriceField.Equals(value) != true)) {
                     this.UnitPriceField = value;
                     this.RaisePropertyChanged("UnitPrice");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int UnitsInstock {
+            get {
+                return this.UnitsInstockField;
+            }
+            set {
+                if ((this.UnitsInstockField.Equals(value) != true)) {
+                    this.UnitsInstockField = value;
+                    this.RaisePropertyChanged("UnitsInstock");
                 }
             }
         }
@@ -107,23 +139,23 @@ namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ProductServiceProxy.IService1")]
+    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ProductServiceProxyV2.IService1")]
     public interface IService1 {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetAllProducts", ReplyAction="http://tempuri.org/IService1/GetAllProductsResponse")]
-        SpoorthiShoppingCart.Web.ProductServiceProxy.ProductDataContract[] GetAllProducts();
+        SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract[] GetAllProducts();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetAllProducts", ReplyAction="http://tempuri.org/IService1/GetAllProductsResponse")]
-        System.Threading.Tasks.Task<SpoorthiShoppingCart.Web.ProductServiceProxy.ProductDataContract[]> GetAllProductsAsync();
+        System.Threading.Tasks.Task<SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract[]> GetAllProductsAsync();
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IService1Channel : SpoorthiShoppingCart.Web.ProductServiceProxy.IService1, System.ServiceModel.IClientChannel {
+    public interface IService1Channel : SpoorthiShoppingCart.Web.ProductServiceProxyV2.IService1, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class Service1Client : System.ServiceModel.ClientBase<SpoorthiShoppingCart.Web.ProductServiceProxy.IService1>, SpoorthiShoppingCart.Web.ProductServiceProxy.IService1 {
+    public partial class Service1Client : System.ServiceModel.ClientBase<SpoorthiShoppingCart.Web.ProductServiceProxyV2.IService1>, SpoorthiShoppingCart.Web.ProductServiceProxyV2.IService1 {
         
         public Service1Client() {
         }
@@ -144,11 +176,11 @@ namespace SpoorthiShoppingCart.Web.ProductServiceProxy {
                 base(binding, remoteAddress) {
         }
         
-        public SpoorthiShoppingCart.Web.ProductServiceProxy.ProductDataContract[] GetAllProducts() {
+        public SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract[] GetAllProducts() {
             return base.Channel.GetAllProducts();
         }
         
-        public System.Threading.Tasks.Task<SpoorthiShoppingCart.Web.ProductServiceProxy.ProductDataContract[]> GetAllProductsAsync() {
+        public System.Threading.Tasks.Task<SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract[]> GetAllProductsAsync() {
             return base.Channel.GetAllProductsAsync();
         }
     }

@@ -21,9 +21,6 @@ C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCa
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.BLL.Interfaces.dll
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.DAL.Interfaces.pdb
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.BLL.Interfaces.pdb
-C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.csprojResolveAssemblyReference.cache
-C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.dll
-C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.pdb
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\NUnit3.TestAdapter.dll
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\nunit.engine.dll
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\nunit.engine.api.dll
@@ -44,3 +41,6 @@ C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.BO.p
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.DAL.Interfaces.pdb
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.DAL.pdb
 C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\bin\SpoorthiShoppingCart.BLL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.csprojResolveAssemblyReference.cache
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFService\obj\Debug\ProductWCFService.pdb

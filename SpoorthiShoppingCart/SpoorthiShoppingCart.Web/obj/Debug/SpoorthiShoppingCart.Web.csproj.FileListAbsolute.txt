@@ -79,6 +79,6 @@ C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpage
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.Razor.xml
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Helpers.xml
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Mvc.xml
-C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.csprojResolveAssemblyReference.cache
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.dll
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.csprojResolveAssemblyReference.cache

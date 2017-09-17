@@ -1,4 +1,5 @@
-﻿using SpoorthiShoppingCart.Web.ProductServiceProxy;
+﻿
+using SpoorthiShoppingCart.Web.ProductServiceProxyV2;
 using SpoorthiShoppingCart.Web.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,8 @@ namespace SpoorthiShoppingCart.Web.Models
                 productViewModel.ProductName = item.ProductName;
                 productViewModel.UnitPrice = item.UnitPrice;
                 productViewModel.Discontinued = item.Discontinued;
+                productViewModel.UnitsInstock = item.UnitsInstock;
+            
                 viewModelProducts.Add(productViewModel);
             }
 

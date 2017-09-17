@@ -21,6 +21,12 @@ namespace ProductWCFService
         [DataMember]
         public int Discontinued { get; set; }
 
+        [DataMember]
+        public int UnitsInstock { get; set; }
+
+        [DataMember]
+        public int QuantityPerUnit { get; set; }
+        
         //bool boolValue = true;
         //string stringValue = "Hello ";
 

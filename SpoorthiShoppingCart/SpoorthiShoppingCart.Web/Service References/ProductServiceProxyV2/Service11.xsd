@@ -11,7 +11,9 @@
       <xs:element minOccurs="0" name="Discontinued" type="xs:int" />
       <xs:element minOccurs="0" name="ProductID" type="xs:int" />
       <xs:element minOccurs="0" name="ProductName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="QuantityPerUnit" type="xs:int" />
       <xs:element minOccurs="0" name="UnitPrice" type="xs:double" />
+      <xs:element minOccurs="0" name="UnitsInstock" type="xs:int" />
     </xs:sequence>
   </xs:complexType>
   <xs:element name="ProductDataContract" nillable="true" type="tns:ProductDataContract" />

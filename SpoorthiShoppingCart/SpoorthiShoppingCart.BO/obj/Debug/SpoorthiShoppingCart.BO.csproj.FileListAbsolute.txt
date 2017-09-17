@@ -18,6 +18,5 @@ C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\bin\Debug\Mono.Cecil.Md
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\bin\Debug\Mono.Cecil.Rocks.dll
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\bin\Debug\SpoorthiShoppingCart.BO.dll
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\bin\Debug\SpoorthiShoppingCart.BO.pdb
-C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\obj\Debug\SpoorthiShoppingCart.BO.csprojResolveAssemblyReference.cache
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\obj\Debug\SpoorthiShoppingCart.BO.dll
 C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.BO\obj\Debug\SpoorthiShoppingCart.BO.pdb

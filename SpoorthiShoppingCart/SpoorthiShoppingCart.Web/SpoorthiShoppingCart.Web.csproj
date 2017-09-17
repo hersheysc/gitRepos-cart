@@ -121,30 +121,20 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-    <None Include="Service References\ProductServiceProxy\Service1.disco" />
-    <None Include="Service References\ProductServiceProxy\configuration91.svcinfo" />
-    <None Include="Service References\ProductServiceProxy\configuration.svcinfo" />
-    <None Include="Service References\ProductServiceProxy\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <None Include="Service References\ProductServiceProxyV2\Service1.disco" />
+    <None Include="Service References\ProductServiceProxyV2\configuration91.svcinfo" />
+    <None Include="Service References\ProductServiceProxyV2\configuration.svcinfo" />
+    <None Include="Service References\ProductServiceProxyV2\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
     <Content Include="Web.config" />
-    <None Include="Service References\ProductServiceProxy\Service1.wsdl" />
-    <None Include="Service References\ProductServiceProxy\Service11.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\ProductServiceProxy\Service12.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <Content Include="Service References\ProductServiceProxy\SpoorthiShoppingCart.Web.ProductServiceProxy.ProductDataContract.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
@@ -157,7 +147,7 @@
     </Compile>
     <Compile Include="Models\ProductModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service References\ProductServiceProxy\Reference.cs">
+    <Compile Include="Service References\ProductServiceProxyV2\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -167,11 +157,21 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
-    <None Include="Service References\ProductServiceProxy\Service1.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <Content Include="Views\Shared\ProductPartialViews\_ProductHeader.cshtml" />
     <Content Include="Views\Shared\ProductPartialViews\_ProductDetails.cshtml" />
+    <None Include="Service References\ProductServiceProxyV2\Service1.wsdl" />
+    <None Include="Service References\ProductServiceProxyV2\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductServiceProxyV2\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ProductServiceProxyV2\Service12.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\ProductServiceProxyV2\SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -186,7 +186,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Service References\ProductServiceProxy\" />
+    <WCFMetadataStorage Include="Service References\ProductServiceProxyV2\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
