@@ -56,6 +56,10 @@
       <Project>{84e085a7-dbe3-422c-890b-1061ec0d4ab3}</Project>
       <Name>SpoorthiShoppingCart.DAL.Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SpoorthiShoppingCart.DAL\SpoorthiShoppingCart.DAL.csproj">
+      <Project>{76013e9b-768b-4dc1-8e67-7afcdcf5b495}</Project>
+      <Name>SpoorthiShoppingCart.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

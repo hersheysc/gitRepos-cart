@@ -24,3 +24,29 @@ C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\Spoorth
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.Interfaces.dll
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.pdb
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\nunit.engine.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\nunit.engine.api.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\Mono.Cecil.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\ProductWCFServiceTests.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\ProductWCFServiceTests.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\nunit.framework.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\ProductWCFService.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BO.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.Interfaces.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.DAL.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\nunit.framework.xml
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\ProductWCFService.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BO.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.BLL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.DAL.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\obj\Debug\ProductWCFServiceTests.csprojResolveAssemblyReference.cache
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\obj\Debug\ProductWCFServiceTests.dll
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFServiceTests\obj\Debug\ProductWCFServiceTests.pdb

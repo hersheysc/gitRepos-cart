@@ -15,8 +15,8 @@ namespace SpoorthiShoppingCart.BLL.Tests
         [TestCase]
         public void BLL_GetAllProducts()
         {
-            ProductDAL productDAL = new ProductDAL();
-            ProductBLL productsBLL = new ProductBLL(productDAL);
+            //ProductDAL productDAL = new ProductDAL();
+            ProductBLL productsBLL = new ProductBLL();
             List<Product> products = productsBLL.GetAllProducts();
             Assert.AreEqual(77, products.Count);
         }

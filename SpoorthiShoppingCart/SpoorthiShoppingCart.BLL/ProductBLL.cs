@@ -13,15 +13,10 @@ namespace SpoorthiShoppingCart.BLL
 
     public class ProductBLL : IProductBLL
     {
-        IProductDAL _productDAL;
-        public ProductBLL(IProductDAL productDAL)
-        {
-            _productDAL = productDAL;
-        }
         public List<Product> GetAllProducts()
         {
-            //  ProductDAL productDAL = new ProductDAL();
-            List<Product> products = _productDAL.GetAllProducts();
+            ProductDAL productDAL = new ProductDAL();
+            List<Product> products = productDAL.GetAllProducts();
             foreach (var item in products)
             {
                 if (item.Discontinued == 0)

@@ -14,3 +14,19 @@ C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\obj\Debug\Spoor
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\obj\Debug\SpoorthiShoppingCart.DAL.pdb
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.dll
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\NUnit3.TestAdapter.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\nunit.engine.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\nunit.engine.api.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\Mono.Cecil.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\Mono.Cecil.Pdb.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\Mono.Cecil.Mdb.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\Mono.Cecil.Rocks.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.BO.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.BO.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\bin\Debug\SpoorthiShoppingCart.DAL.Interfaces.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\obj\Debug\SpoorthiShoppingCart.DAL.csprojResolveAssemblyReference.cache
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\obj\Debug\SpoorthiShoppingCart.DAL.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.DAL\obj\Debug\SpoorthiShoppingCart.DAL.pdb

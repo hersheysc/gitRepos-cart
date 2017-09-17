@@ -3,3 +3,8 @@ C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWC
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.pdb
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.exe
 C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.exe.config
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.exe
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.pdb
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.exe
+C:\gitRepos\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.pdb

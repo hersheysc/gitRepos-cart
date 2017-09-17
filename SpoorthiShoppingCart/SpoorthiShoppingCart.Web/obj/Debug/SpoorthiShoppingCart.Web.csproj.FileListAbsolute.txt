@@ -40,3 +40,45 @@ C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.P
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
 C:\SP Practice MVC\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.csprojResolveAssemblyReference.cache
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\csc.exe
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\vbc.exe
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\VBCSCompiler.exe
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\SpoorthiShoppingCart.Web.dll.config
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\SpoorthiShoppingCart.Web.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\SpoorthiShoppingCart.Web.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Helpers.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Mvc.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Razor.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.Deployment.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.Razor.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Razor.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.Deployment.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Webpages.Razor.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Helpers.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\bin\System.Web.Mvc.xml
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.csprojResolveAssemblyReference.cache
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.dll
+C:\gitRepos\SpoorthiShoppingCart\SpoorthiShoppingCart.Web\obj\Debug\SpoorthiShoppingCart.Web.pdb

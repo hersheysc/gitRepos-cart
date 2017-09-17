@@ -1,6 +1,5 @@
 ﻿using SpoorthiShoppingCart.BLL;
 using SpoorthiShoppingCart.BO;
-using SpoorthiShoppingCart.DAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,10 +16,7 @@ namespace ProductWCFService
     {
         public List<ProductDataContract> GetAllProducts()
         {
-
-            ProductDAL productDAL = new ProductDAL();
-
-            ProductBLL productBLL = new ProductBLL(productDAL);
+            ProductBLL productBLL = new ProductBLL();
             List<Product> products = productBLL.GetAllProducts();
             List<ProductDataContract> svcProducts = new List<ProductDataContract>();
             foreach (Product product in products)
