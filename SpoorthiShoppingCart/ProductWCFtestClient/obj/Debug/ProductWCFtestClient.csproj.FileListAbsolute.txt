@@ -1,0 +1,5 @@
+C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.exe.config
+C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.exe
+C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\bin\Debug\ProductWCFtestClient.pdb
+C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.exe
+C:\SP Practice MVC\SpoorthiShoppingCart\ProductWCFtestClient\obj\Debug\ProductWCFtestClient.pdb
