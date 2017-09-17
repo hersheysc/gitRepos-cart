@@ -18,5 +18,12 @@ namespace SpoorthiShoppingCart.Web.Controllers
             viewModelProducts = productModel.GetAllProducts();
             return View(viewModelProducts);
         }
+
+        public ActionResult Details()
+        {
+           
+            return View();
+        }
+
     }
 }

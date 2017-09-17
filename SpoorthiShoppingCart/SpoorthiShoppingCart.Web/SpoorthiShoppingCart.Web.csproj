@@ -172,6 +172,7 @@
     <Content Include="Service References\ProductServiceProxyV2\SpoorthiShoppingCart.Web.ProductServiceProxyV2.ProductDataContract.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
+    <Content Include="Views\Product\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
